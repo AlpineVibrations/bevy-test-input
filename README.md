@@ -1,2 +1,6 @@
 on macos leftpad.
-down is positive. and right is positive.
+down is positive.
+
+
+on windoze
+down is negative.
